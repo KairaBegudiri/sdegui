@@ -1,5 +1,5 @@
 # sdegui
-A gui for erasing disk with safely
+A user-friendly GUI for securely erasing disks
 
 Installation:
 ```sh
