@@ -1,5 +1,6 @@
 # sdegui
-A user-friendly GUI for securely erasing disks
+A simple GUI for securely erasing disks
+<img width="416" height="258" alt="image" src="https://github.com/user-attachments/assets/ce69e372-5f28-4f40-b98a-9a17773f651a" />
 
 Installation:
 ```sh
